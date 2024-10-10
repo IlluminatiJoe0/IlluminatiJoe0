@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on [ReFactory: Expert](https://github.com/IlluminatiJoe0/ReFactory)
 
-- 🌱 I’m currently learning **Java, PHP, Symfony framework**
+- 🌱 I’m currently learning **Java, PHP, Symfony framework and a little bit of music composition**
 
 - 📫 Contact: **illuminatijoe2001@gmail.com**
 
