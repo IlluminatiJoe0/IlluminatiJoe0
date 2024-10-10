@@ -8,6 +8,7 @@
 - 📫 Contact: **illuminatijoe2001@gmail.com**
 
 <br>
+
 Most, if not all, of my work is under the [MIT License](https://tap.sandbox.suf.purs.gov.rs/Help/view/20536433/MIT-License/en-US).
 
 <br>
