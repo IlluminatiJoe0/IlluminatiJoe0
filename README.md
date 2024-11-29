@@ -1,15 +1,13 @@
-<h1 align="left">Hi, I'm IlluminatiJoe</h1>
-<h3 align="left">Hobbyist from Bosnia and Herzegovina / Serbia</h3>
+<h3 align="left">Hello, I am IlluminatiJoe</h3>
 
-- 🔭 I'm currently working on [ReFactory: Expert](https://github.com/IlluminatiJoe0/ReFactory)
+Currently working on [ReFactory: Expert](https://github.com/IlluminatiJoe0/ReFactory)
 
-- 🌱 I’m currently learning **Java, PHP, Symfony framework and a little bit of music composition**
+Currently learning **Java, PHP, Symfony framework and a little bit of everything else :>**
 
-- 📫 Contact: **illuminatijoe2001@gmail.com**
+Contact: **illuminatijoe2001@gmail.com**
 
-<br>
 
-Most, if not all, of my work is under the [MIT License](https://tap.sandbox.suf.purs.gov.rs/Help/view/20536433/MIT-License/en-US).
+<!-- Most, if not all, of my work is under the [MIT License](https://tap.sandbox.suf.purs.gov.rs/Help/view/20536433/MIT-License/en-US). -->
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
